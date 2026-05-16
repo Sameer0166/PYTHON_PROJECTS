@@ -19,7 +19,3 @@ These scripts serve as foundational practice for Python programming. They solve 
 - **Error Handling:** They assume ideal user input and may crash if invalid data types are entered (e.g., entering text when a number is expected).
 - **Complexity:** The logic is linear and mostly relies on basic `if-else` branching and simple loops.
 - **Security:** The password generator uses the standard `random` module, which is suitable for basic use but not cryptographically secure.
-
-## Proper commit history
-*Please refer to the repository's main git history for a complete log.*
-- `fcb8c973` - This are my projects (by Sameer0166)
